@@ -1,0 +1,36 @@
+
+key Pressed: t
+key Pressed: e
+key Pressed: s
+key Pressed: t
+key Pressed: i
+key Pressed: n
+key Pressed: g
+key Pressed:  
+key Pressed: 1
+key Pressed: .
+key Pressed: .
+key Pressed: .
+key Pressed: 2
+key Pressed: .
+key Pressed: .
+key Pressed: .
+key Pressed: 3
+key Pressed:  
+key Pressed: t
+key Pressed: e
+key Pressed: s
+key Pressed: t
+key Pressed: i
+key Pressed: n
+key Pressed: g
+key Pressed:  
+key Pressed: t
+key Pressed: e
+key Pressed: s
+key Pressed: t
+key Pressed: i
+key Pressed: n
+key Pressed: g
+key Pressed: 
+
